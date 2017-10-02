@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

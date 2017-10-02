@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

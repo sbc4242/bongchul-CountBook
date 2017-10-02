@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/BongChul/.android/build-cache/90337933a370d640dc9ca4e6741e5b507885d45a/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

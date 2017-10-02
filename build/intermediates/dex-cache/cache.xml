@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35854d4711bb6353e825a25e1a85673acfc3d20c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b7f600df24beadd0d8048e5bb2cea117306a5fbb">
+        <dex dex="/Users/BongChul/Desktop/CMPUT301/bongchul-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7cbe3a8cef2a489ddcf7efa0fe152ba8bbb83923/classes.dex" />
+    </item>
+
+</items>
