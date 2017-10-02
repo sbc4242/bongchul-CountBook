@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (c) Team X, CMPUT301, University of Alberta. All Rights Reserved. You may use, distribute or modify this code under terms and conditions of the Code of Students Behaviour at University of Alberta
+  -->
+
+<resources>
+    <string name="app_name">bongchul-CountBook</string>
+    <string name="edit_name">Enter a name</string>
+    <string name="edit_iv">Enter an initial value</string>
+    <string name="edit_comment">Comment</string>
+</resources>
